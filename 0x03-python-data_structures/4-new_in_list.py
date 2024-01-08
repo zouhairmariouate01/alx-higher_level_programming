@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-
 def new_in_list(my_list, idx, element):
     """Substitute an element at a specified position within a duplicated list."""
     if idx < 0 or idx > (len(my_list) - 1):
